@@ -956,7 +956,7 @@ html {
             }
 
             .navbar{
-                width: 90%;
+                width: 100%;
             }
 
             .daun img{
@@ -1036,9 +1036,12 @@ html {
     }
 
     .instagram-section {
-        margin-bottom: -40%;
+        max-height: 100vh;
     }
 
+    .nav-menu {
+        margin-right: 2%;
+    }
             /* Hero Video Mobile */
     .hero-video-section {
         /* You might want to adjust height for mobile */
