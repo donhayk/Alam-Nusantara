@@ -1048,7 +1048,7 @@ html {
         /* You might want to adjust height for mobile */
         height: 30vh;
         margin-top: 60px; /* Adjust if navbar height changes on mobile */
-        height: calc(90vh - 425px); /* Adjust based on mobile navbar height */
+        height: calc(80vh - 435px); /* Adjust based on mobile navbar height */
         display: flex;
     }
 
