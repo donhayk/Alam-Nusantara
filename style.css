@@ -190,6 +190,7 @@ html {
     margin-left: auto;
     margin-right: auto;
     font-family: var(--font-second);
+    padding: 5px;
 }
 .about-us-section img {
     padding-bottom: 0%;
