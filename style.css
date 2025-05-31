@@ -952,10 +952,11 @@ html {
 
             .navbar-logo{
                 margin-left: -30px;
+                margin-right: 50px;
             }
 
             .navbar{
-                width: 100%;
+                width: 90%;
             }
 
             .daun img{
@@ -1035,7 +1036,7 @@ html {
     }
 
     .instagram-section {
-        margin-bottom: -10%;
+        margin-bottom: -40%;
     }
 
             /* Hero Video Mobile */
