@@ -749,7 +749,7 @@ html {
     }
 
      /* INSTAGRAM Section Mobile */
-    .instagram-section { padding: 30px 15px; }
+    .instagram-section { padding: 60px 15px; }
     .instagram-title { font-size: 2.8rem; margin-bottom: 40px; }
     .instagram-grid {
         grid-template-columns: 1fr; /* 1 column on mobile */
@@ -951,7 +951,7 @@ html {
 @media (max-width: 480px) {
 
             .navbar-logo{
-                margin-left: -40px;
+                margin-left: -30px;
             }
 
             .navbar{
@@ -1032,6 +1032,10 @@ html {
     }
     .shop-card-button {
         font-size: 0.85rem;
+    }
+
+    .instagram-section {
+        margin-bottom: -10%;
     }
 
             /* Hero Video Mobile */
