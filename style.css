@@ -184,7 +184,7 @@ html {
 
 .about-us-section p {
     font-size: 2.5rem; /* Readable paragraph text */
-    line-height: 1.2;
+    line-height: 1.5;
     font-weight: 500;
     max-width: 1100px; /* Slightly narrower than the content block for visual balance */
     margin-left: auto;
@@ -1011,7 +1011,7 @@ html {
             }
             .about-us-section p {
             font-size: 1rem;
-            line-height: 1.7;
+            line-height: 1.5;
             }
 
              /* SHOP Section Smaller Mobile */
