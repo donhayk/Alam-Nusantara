@@ -821,7 +821,7 @@ html {
 
     .navbar {
         max-width: 100%;
-        padding: 1.5% 0px;
+        padding: 10px 0;
     }
     
     .navbar-container {
