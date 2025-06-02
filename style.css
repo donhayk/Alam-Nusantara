@@ -328,7 +328,7 @@ html {
             width: auto;
             height: auto;
             object-fit: contain;
-            max-height: 90vh;
+            max-height: 95vh;
         }
 
      
@@ -405,7 +405,7 @@ html {
     background-color: var(--main-color); /* Light green background, same as About Us or adjust */
     padding: 80px 20px;
     text-align: center;
-    height: 95vh;
+    height: 100vh;
 }
 
 .shop-container {
@@ -526,7 +526,7 @@ html {
     margin: 0 auto;
     position: relative; /* To be above the pseudo-element if used */
     z-index: 1;
-    max-height: 150vh;
+    max-height: 170vh;
 }
 
 .instagram-title {
