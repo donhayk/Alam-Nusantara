@@ -488,6 +488,9 @@ html {
     background-color: #c9ddc0; /* Slightly darker on hover */
 }
 
+.banner-section {
+    width: 100%;
+
 .banner-section img {
     max-width: 100%;
     height: auto;
